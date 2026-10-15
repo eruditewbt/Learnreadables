@@ -31,5 +31,6 @@ Students, researchers, educators, and professionals who learn from documents and
 ## Explore
 
 - [Official project repository](https://github.com/eruditewbt/Learnreadables)
+- [Open product](https://pdf-reader-77ef58.web.app/)
 - [LearnedData](https://github.com/eruditewbt/LearnedData)
 - [EruditeWBT](https://github.com/eruditewbt/eruditewbt)
